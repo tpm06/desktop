@@ -1,0 +1,81 @@
+D:\IT\HK2-Năm 2\PTUD\Lab02\Lab02\bin\Debug\Lab02.exe.config
+D:\IT\HK2-Năm 2\PTUD\Lab02\Lab02\bin\Debug\Lab02.exe
+D:\IT\HK2-Năm 2\PTUD\Lab02\Lab02\bin\Debug\Lab02.pdb
+D:\IT\HK2-Năm 2\PTUD\Lab02\Lab02\obj\Debug\Lab02.csproj.AssemblyReference.cache
+D:\IT\HK2-Năm 2\PTUD\Lab02\Lab02\obj\Debug\Lab02.csproj.SuggestedBindingRedirects.cache
+D:\IT\HK2-Năm 2\PTUD\Lab02\Lab02\obj\Debug\Lab02.Form1.resources
+D:\IT\HK2-Năm 2\PTUD\Lab02\Lab02\obj\Debug\Lab02.frmGiaoVien.resources
+D:\IT\HK2-Năm 2\PTUD\Lab02\Lab02\obj\Debug\Lab02.frmTBGiaoVien.resources
+D:\IT\HK2-Năm 2\PTUD\Lab02\Lab02\obj\Debug\Lab02.frmTimKiem.resources
+D:\IT\HK2-Năm 2\PTUD\Lab02\Lab02\obj\Debug\Lab02.Properties.Resources.resources
+D:\IT\HK2-Năm 2\PTUD\Lab02\Lab02\obj\Debug\Lab02.csproj.GenerateResource.cache
+D:\IT\HK2-Năm 2\PTUD\Lab02\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+D:\IT\HK2-Năm 2\PTUD\Lab02\Lab02\obj\Debug\Lab02.exe
+D:\IT\HK2-Năm 2\PTUD\Lab02\Lab02\obj\Debug\Lab02.pdb
+D:\Downloads\Lab02\Lab02\bin\Debug\Lab02.exe.config
+D:\Downloads\Lab02\Lab02\bin\Debug\Lab02.exe
+D:\Downloads\Lab02\Lab02\bin\Debug\Lab02.pdb
+D:\Downloads\Lab02\Lab02\obj\Debug\Lab02.csproj.AssemblyReference.cache
+D:\Downloads\Lab02\Lab02\obj\Debug\Lab02.exe.config
+D:\Downloads\Lab02\Lab02\obj\Debug\Lab02.Form1.resources
+D:\Downloads\Lab02\Lab02\obj\Debug\Lab02.frmGiaoVien.resources
+D:\Downloads\Lab02\Lab02\obj\Debug\Lab02.frmTBGiaoVien.resources
+D:\Downloads\Lab02\Lab02\obj\Debug\Lab02.frmTimKiem.resources
+D:\Downloads\Lab02\Lab02\obj\Debug\Lab02.Properties.Resources.resources
+D:\Downloads\Lab02\Lab02\obj\Debug\Lab02.csproj.GenerateResource.cache
+D:\Downloads\Lab02\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+D:\Downloads\Lab02\Lab02\obj\Debug\Lab02.exe
+D:\Downloads\Lab02\Lab02\obj\Debug\Lab02.pdb
+D:\Downloads\Lab02_Demo\Lab02\bin\Debug\Lab02.exe.config
+D:\Downloads\Lab02_Demo\Lab02\bin\Debug\Lab02.exe
+D:\Downloads\Lab02_Demo\Lab02\bin\Debug\Lab02.pdb
+D:\Downloads\Lab02_Demo\Lab02\obj\Debug\Lab02.csproj.AssemblyReference.cache
+D:\Downloads\Lab02_Demo\Lab02\obj\Debug\Lab02.exe.config
+D:\Downloads\Lab02_Demo\Lab02\obj\Debug\Lab02.Form1.resources
+D:\Downloads\Lab02_Demo\Lab02\obj\Debug\Lab02.frmGiaoVien.resources
+D:\Downloads\Lab02_Demo\Lab02\obj\Debug\Lab02.frmTBGiaoVien.resources
+D:\Downloads\Lab02_Demo\Lab02\obj\Debug\Lab02.frmTimKiem.resources
+D:\Downloads\Lab02_Demo\Lab02\obj\Debug\Lab02.Properties.Resources.resources
+D:\Downloads\Lab02_Demo\Lab02\obj\Debug\Lab02.csproj.GenerateResource.cache
+D:\Downloads\Lab02_Demo\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+D:\Downloads\Lab02_Demo\Lab02\obj\Debug\Lab02.exe
+D:\Downloads\Lab02_Demo\Lab02\obj\Debug\Lab02.pdb
+C:\Users\phanm\Downloads\Lab02_Demo\Lab02_Demo\Lab02\bin\Debug\Lab02.exe.config
+C:\Users\phanm\Downloads\Lab02_Demo\Lab02_Demo\Lab02\bin\Debug\Lab02.exe
+C:\Users\phanm\Downloads\Lab02_Demo\Lab02_Demo\Lab02\bin\Debug\Lab02.pdb
+C:\Users\phanm\Downloads\Lab02_Demo\Lab02_Demo\Lab02\obj\Debug\Lab02.csproj.AssemblyReference.cache
+C:\Users\phanm\Downloads\Lab02_Demo\Lab02_Demo\Lab02\obj\Debug\Lab02.exe.config
+C:\Users\phanm\Downloads\Lab02_Demo\Lab02_Demo\Lab02\obj\Debug\Lab02.Form1.resources
+C:\Users\phanm\Downloads\Lab02_Demo\Lab02_Demo\Lab02\obj\Debug\Lab02.frmGiaoVien.resources
+C:\Users\phanm\Downloads\Lab02_Demo\Lab02_Demo\Lab02\obj\Debug\Lab02.frmTBGiaoVien.resources
+C:\Users\phanm\Downloads\Lab02_Demo\Lab02_Demo\Lab02\obj\Debug\Lab02.frmTimKiem.resources
+C:\Users\phanm\Downloads\Lab02_Demo\Lab02_Demo\Lab02\obj\Debug\Lab02.Properties.Resources.resources
+C:\Users\phanm\Downloads\Lab02_Demo\Lab02_Demo\Lab02\obj\Debug\Lab02.csproj.GenerateResource.cache
+C:\Users\phanm\Downloads\Lab02_Demo\Lab02_Demo\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+C:\Users\phanm\Downloads\Lab02_Demo\Lab02_Demo\Lab02\obj\Debug\Lab02.exe
+C:\Users\phanm\Downloads\Lab02_Demo\Lab02_Demo\Lab02\obj\Debug\Lab02.pdb
+c:\Users\phanm\Downloads\2411934_Lab2\Lab02\obj\Debug\Lab02.exe
+c:\Users\phanm\Downloads\2411934_Lab2\Lab02\obj\Debug\Lab02.pdb
+c:\Users\phanm\Downloads\2411934_Lab2\Lab02\bin\Debug\Lab02.exe.config
+c:\Users\phanm\Downloads\2411934_Lab2\Lab02\bin\Debug\Lab02.exe
+c:\Users\phanm\Downloads\2411934_Lab2\Lab02\bin\Debug\Lab02.pdb
+c:\Users\phanm\Downloads\2411934_Lab2\Lab02\obj\Debug\Lab02.Form1.resources
+c:\Users\phanm\Downloads\2411934_Lab2\Lab02\obj\Debug\Lab02.frmGiaoVien.resources
+c:\Users\phanm\Downloads\2411934_Lab2\Lab02\obj\Debug\Lab02.frmTBGiaoVien.resources
+c:\Users\phanm\Downloads\2411934_Lab2\Lab02\obj\Debug\Lab02.frmTimKiem.resources
+c:\Users\phanm\Downloads\2411934_Lab2\Lab02\obj\Debug\Lab02.Properties.Resources.resources
+c:\Users\phanm\Downloads\2411934_Lab2\Lab02\obj\Debug\Lab02.csproj.GenerateResource.Cache
+c:\Users\phanm\Downloads\2411934_Lab2\Lab02\obj\Debug\Lab02.csproj.AssemblyReference.cache
+c:\Users\phanm\Downloads\2411934_Lab2\Lab02\obj\Debug\Lab02.exe.config
+c:\Users\phanm\Downloads\2411934_Lab2\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+c:\Users\phanm\Downloads\2411934_Lab2\Lab02\bin\Debug\DanhSachSV.txt
+c:\Users\phanm\Downloads\2411934_Lab2\Lab02\bin\Debug\DSNV.txt
+c:\Users\phanm\Downloads\2411934_Lab2\Lab02\bin\Debug\SinhVien5.png
+c:\Users\phanm\Downloads\2411934_Lab2\Lab02\bin\Debug\SinhVien1.png
+c:\Users\phanm\Downloads\2411934_Lab2\Lab02\bin\Debug\SinhVien2.png
+c:\Users\phanm\Downloads\2411934_Lab2\Lab02\bin\Debug\SinhVien3.png
+c:\Users\phanm\Downloads\2411934_Lab2\Lab02\bin\Debug\SinhVien4.png
+c:\Users\phanm\Downloads\2411934_Lab2\Lab02\obj\Debug\Lab02.frmMain.resources
+c:\Users\phanm\Downloads\2411934_Lab2\Lab02\obj\Debug\Lab02.frmSinhVien.resources
+c:\Users\phanm\Downloads\2411934_Lab2\Lab02\obj\Debug\Lab02.frmTuyChon.resources
+c:\Users\phanm\Downloads\2411934_Lab2\Lab02\obj\Debug\Lab02.frmQLSV_CNTT.resources
