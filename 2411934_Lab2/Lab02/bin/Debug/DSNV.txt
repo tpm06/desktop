@@ -1,5 +1,0 @@
-2110001	Nguyễn Văn An	Nam	15/10/2003	CTK43	0912.345.678	an.nv@gmail.com		Đà Lạt		SinhVien1.png
-2110002	Trần Thị Mai	Nữ	20/07/2002	CTK44	0934.567.890	mai.tt@gmail.com	Hà Nội		SinhVien2.png
-2110003	Lê Văn Hùng	Nam	25/08/2003	CTK45	0978.123.456	hung.lv@gmail.com	Gia Lai		SinhVien3.png
-2110004	Phạm Thị Ánh	Nữ	20/11/2001	CTK46	0905.234.567	anh.pt@gmail.com	Đà Lạt		SinhVien4.png
-2110005	Hoàng Văn Vũ	Nam	20/09/2003	CTK43	0987.654.321	vu.hv@gmail.com		Bình Định	SinhVien5.png
