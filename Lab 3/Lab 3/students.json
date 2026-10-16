@@ -1,0 +1,89 @@
+﻿[
+  {
+    "MSSV": "1910152",
+    "HoVaTenLot": "Nguyễn Văn",
+    "Ten": "An",
+    "NgaySinh": "2001-05-12T00:00:00",
+    "GioiTinh": true,
+    "Lop": "CTK43",
+    "SoCMND": "272564891",
+    "SoDT": "0912345678",
+    "DiaChi": "1 Phù Đổng Thiên Vương, Đà Lạt",
+    "MonHoc": [
+      "Mạng máy tính",
+      "Hệ điều hành",
+      "Lập trình CSDL"
+    ],
+    "HoTen": "Nguyễn Văn An",
+    "GioiTinhStr": "Nam"
+  },
+  {
+    "MSSV": "1910153",
+    "HoVaTenLot": "Trần Thị",
+    "Ten": "Bích",
+    "NgaySinh": "2001-08-20T00:00:00",
+    "GioiTinh": false,
+    "Lop": "CTK43",
+    "SoCMND": "272564892",
+    "SoDT": "0987654321",
+    "DiaChi": "25 Phan Đình Phùng, Đà Lạt",
+    "MonHoc": [
+      "Lập trình CSDL",
+      "Đồ án cơ sở",
+      "Phương pháp NCKH"
+    ],
+    "HoTen": "Trần Thị Bích",
+    "GioiTinhStr": "Nữ"
+  },
+  {
+    "MSSV": "2010214",
+    "HoVaTenLot": "Lê Hoàng",
+    "Ten": "Cường",
+    "NgaySinh": "2002-03-15T00:00:00",
+    "GioiTinh": true,
+    "Lop": "CTK44",
+    "SoCMND": "272564893",
+    "SoDT": "0905123456",
+    "DiaChi": "10 Đinh Tiên Hoàng, Đà Lạt",
+    "MonHoc": [
+      "Lập trình mạng",
+      "An toàn và bảo mật hệ thống"
+    ],
+    "HoTen": "Lê Hoàng Cường",
+    "GioiTinhStr": "Nam"
+  },
+  {
+    "MSSV": "2010215",
+    "HoVaTenLot": "Phạm Thị",
+    "Ten": "Dung",
+    "NgaySinh": "2002-11-28T00:00:00",
+    "GioiTinh": false,
+    "Lop": "CTK44",
+    "SoCMND": "272564894",
+    "SoDT": "0934567890",
+    "DiaChi": "12 Bùi Thị Xuân, Đà Lạt",
+    "MonHoc": [
+      "Mạng máy tính",
+      "Lập trình trên thiết bị di động"
+    ],
+    "HoTen": "Phạm Thị Dung",
+    "GioiTinhStr": "Nữ"
+  },
+  {
+    "MSSV": "1810089",
+    "HoVaTenLot": "Võ Minh",
+    "Ten": "Đức",
+    "NgaySinh": "2000-01-10T00:00:00",
+    "GioiTinh": true,
+    "Lop": "CTK42",
+    "SoCMND": "272564895",
+    "SoDT": "0945678123",
+    "DiaChi": "45 Hai Bà Trưng, Đà Lạt",
+    "MonHoc": [
+      "Đồ án cơ sở",
+      "Hệ điều hành"
+    ],
+    "HoTen": "Võ Minh Đức",
+    "GioiTinhStr": "Nam"
+  }
+]
