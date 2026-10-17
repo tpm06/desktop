@@ -1,5 +1,0 @@
-﻿1910152*Nguyễn Văn*An*12/05/2001*Nam*CTK43*272564891*0912345678*1 Phù Đổng Thiên Vương, Đà Lạt*Mạng máy tính,Hệ điều hành,Lập trình CSDL
-1910153*Trần Thị*Bích*20/08/2001*Nữ*CTK43*272564892*0987654321*25 Phan Đình Phùng, Đà Lạt*Lập trình CSDL,Đồ án cơ sở,Phương pháp NCKH
-2010214*Lê Hoàng*Cường*15/03/2002*Nam*CTK44*272564893*0905123456*10 Đinh Tiên Hoàng, Đà Lạt*Lập trình mạng,An toàn và bảo mật hệ thống
-2010215*Phạm Thị*Dung*28/11/2002*Nữ*CTK44*272564894*0934567890*12 Bùi Thị Xuân, Đà Lạt*Mạng máy tính,Lập trình trên thiết bị di động
-1810089*Võ Minh*Đức*10/01/2000*Nam*CTK42*272564895*0945678123*45 Hai Bà Trưng, Đà Lạt*Đồ án cơ sở,Hệ điều hành
