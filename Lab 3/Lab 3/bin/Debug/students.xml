@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <MSSV>1910152</MSSV>
+    <HoVaTenLot>Nguyễn Văn</HoVaTenLot>
+    <Ten>An</Ten>
+    <NgaySinh>2001-05-12T00:00:00</NgaySinh>
+    <GioiTinh>true</GioiTinh>
+    <Lop>CTK43</Lop>
+    <SoCMND>272564891</SoCMND>
+    <SoDT>0912345678</SoDT>
+    <DiaChi>1 Phù Đổng Thiên Vương, Đà Lạt</DiaChi>
+    <DanhSachMonHoc>
+      <MonHoc>Mạng máy tính</MonHoc>
+      <MonHoc>Hệ điều hành</MonHoc>
+      <MonHoc>Lập trình CSDL</MonHoc>
+    </DanhSachMonHoc>
+  </Student>
+  <Student>
+    <MSSV>1910153</MSSV>
+    <HoVaTenLot>Trần Thị</HoVaTenLot>
+    <Ten>Bích</Ten>
+    <NgaySinh>2001-08-20T00:00:00</NgaySinh>
+    <GioiTinh>false</GioiTinh>
+    <Lop>CTK43</Lop>
+    <SoCMND>272564892</SoCMND>
+    <SoDT>0987654321</SoDT>
+    <DiaChi>25 Phan Đình Phùng, Đà Lạt</DiaChi>
+    <DanhSachMonHoc>
+      <MonHoc>Lập trình CSDL</MonHoc>
+      <MonHoc>Đồ án cơ sở</MonHoc>
+      <MonHoc>Phương pháp NCKH</MonHoc>
+    </DanhSachMonHoc>
+  </Student>
+  <Student>
+    <MSSV>2010214</MSSV>
+    <HoVaTenLot>Lê Hoàng</HoVaTenLot>
+    <Ten>Cường</Ten>
+    <NgaySinh>2002-03-15T00:00:00</NgaySinh>
+    <GioiTinh>true</GioiTinh>
+    <Lop>CTK44</Lop>
+    <SoCMND>272564893</SoCMND>
+    <SoDT>0905123456</SoDT>
+    <DiaChi>10 Đinh Tiên Hoàng, Đà Lạt</DiaChi>
+    <DanhSachMonHoc>
+      <MonHoc>Lập trình mạng</MonHoc>
+      <MonHoc>An toàn và bảo mật hệ thống</MonHoc>
+    </DanhSachMonHoc>
+  </Student>
+  <Student>
+    <MSSV>2010215</MSSV>
+    <HoVaTenLot>Phạm Thị</HoVaTenLot>
+    <Ten>Dung</Ten>
+    <NgaySinh>2002-11-28T00:00:00</NgaySinh>
+    <GioiTinh>false</GioiTinh>
+    <Lop>CTK44</Lop>
+    <SoCMND>272564894</SoCMND>
+    <SoDT>0934567890</SoDT>
+    <DiaChi>12 Bùi Thị Xuân, Đà Lạt</DiaChi>
+    <DanhSachMonHoc>
+      <MonHoc>Mạng máy tính</MonHoc>
+      <MonHoc>Lập trình trên thiết bị di động</MonHoc>
+    </DanhSachMonHoc>
+  </Student>
+  <Student>
+    <MSSV>1810089</MSSV>
+    <HoVaTenLot>Võ Minh</HoVaTenLot>
+    <Ten>Đức</Ten>
+    <NgaySinh>2000-01-10T00:00:00</NgaySinh>
+    <GioiTinh>true</GioiTinh>
+    <Lop>CTK42</Lop>
+    <SoCMND>272564895</SoCMND>
+    <SoDT>0945678123</SoDT>
+    <DiaChi>45 Hai Bà Trưng, Đà Lạt</DiaChi>
+    <DanhSachMonHoc>
+      <MonHoc>Đồ án cơ sở</MonHoc>
+      <MonHoc>Hệ điều hành</MonHoc>
+    </DanhSachMonHoc>
+  </Student>
+</ArrayOfStudent>
